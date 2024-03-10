@@ -1,0 +1,6 @@
+.weed-icon {
+    background: url('../resources/weed.png');
+    height: 60px;
+    width: 60px;
+    display: inline-block;
+}
