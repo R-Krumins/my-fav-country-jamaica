@@ -4,7 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="../node_modules/bootstrap/dist/css/bootstrap.min.css">
-    <base href="/helloweb/">
+    <link rel="stylesheet" href="../node_modules/bootstrap-icons/font/bootstrap-icons.css">
+    <base href="/my-fav-country-jamaica/">
     <title>Food</title>
 </head>
 <body>
@@ -70,6 +71,9 @@
             ?>
         </div>
     </div>
+
+    <!-- footer -->
+    <?php require "../components/footer.php" ?>
     
 </body>
 </html>

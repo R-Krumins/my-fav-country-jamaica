@@ -1,5 +1,5 @@
 <?php
-    $ROOT_FOLDER = "/helloweb"
+    $ROOT_FOLDER = "/my-fav-country-jamaica"
 ?>
 
 <!-- navbar -->
@@ -22,7 +22,7 @@
         <div class="collapse navbar-collapse justify-content-end align-center" id="main-nav">
           <ul class="navbar-nav">
             <li class="nav-item">
-              <a class="nav-link" href="#">Places</a>
+              <a class="nav-link" href="<?php echo $ROOT_FOLDER . "/pages/places.php"?>">Places</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="<?php echo $ROOT_FOLDER . "/pages/food.php"?>">Food</a>
