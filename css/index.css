@@ -1,5 +1,11 @@
+#flag {
+    width: 60px;
+    height: 60px;
+}
+
 @import url("../resources/fonts/NotoSans-VariableFont_wdth\,wght.ttf");
 
 #website-title {
     font-family: "NotoSans";
 }
+

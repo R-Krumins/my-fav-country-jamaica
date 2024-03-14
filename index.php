@@ -36,7 +36,7 @@
                     </div>
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                        <img src="./resources/man-smoking-joint.png" class="d-block w-100" alt="...">
+                        <img src="./resources/man.png" class="d-block w-100" alt="...">
                         <div class="carousel-caption d-none d-md-block">
                             <h5>Good Vibes in Jamaica</h5>
                             <p>Best Vibes! Good Vibes!</p>
@@ -70,6 +70,31 @@
 
         </div>
     </div>
+
+    <section class="basic-info">
+        <div class="container-lg mt-5 bg-light">
+            <div class="text-center my-5">
+                <h2 class="">Basic Info</h2>
+            </div>
+
+            <div class="row">
+                <div class="col-md-6">
+                    <ul class="list-group list-group-flush bg-light">
+                        <li class="list-group-item list-group-item-light"><span>Population: </span>2,7 mil</li>
+                        <li class="list-group-item list-group-item-light"><span>Area: 11 thousans km<sup>2</sup></span></li>
+                        <li class="list-group-item list-group-item-light"><span>Currency: </span>Jamican Dollar</li>
+                        <li class="list-group-item list-group-item-light"><span>Timezone:</span> UTC-5</li>
+                    </ul>
+                </div>
+
+                <div class="col-md-6">
+                    <img src="./resources/flag.png" alt="flag"style="max-width:70%; height:auto; margin: auto; display: block;">
+                </div>
+            </div>
+
+           
+        </div>
+    </section>
 
     <!-- footer -->
     <?php require "./components/footer.php" ?>

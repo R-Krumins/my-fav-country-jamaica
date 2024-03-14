@@ -9,7 +9,7 @@
         <a class="navbar-brand align-items-center" href="<?php echo $ROOT_FOLDER?>">
           <span class="text-secondary fw-bold" id="website-title">
               Jamaica
-              <img src="<?php echo $ROOT_FOLDER . "/resources/weed.png"?>" width="30" height="30" class="d-inline-block align-top" alt="">
+              <img src="<?php echo $ROOT_FOLDER . "/resources/logo.png"?>" width="30" height="30" class="d-inline-block align-top" alt="">
           </span>
         </a>
     
