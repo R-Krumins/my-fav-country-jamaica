@@ -3,6 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Jamican country places">
+    <meta name="keywords" content="jamica, jaimacan tourism, jamaican info, jamaican country">
+    <meta class="author" content="Rainers Krumins">
     <link rel="stylesheet" href="../node_modules/bootstrap/dist/css/bootstrap.min.css">
     <link rel="stylesheet" href="../node_modules/bootstrap-icons/font/bootstrap-icons.css">
     <base href="/my-fav-country-jamaica/">

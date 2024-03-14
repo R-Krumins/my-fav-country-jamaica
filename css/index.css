@@ -1,6 +1,5 @@
-.weed-icon {
-    background: url('../resources/weed.png');
-    height: 60px;
-    width: 60px;
-    display: inline-block;
+@import url("../resources/fonts/NotoSans-VariableFont_wdth\,wght.ttf");
+
+#website-title {
+    font-family: "NotoSans";
 }

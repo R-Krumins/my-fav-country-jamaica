@@ -7,7 +7,7 @@
     <div class="container-xxl">
         <!-- navbar brand / title -->
         <a class="navbar-brand align-items-center" href="<?php echo $ROOT_FOLDER?>">
-          <span class="text-secondary fw-bold">
+          <span class="text-secondary fw-bold" id="website-title">
               Jamaica
               <img src="<?php echo $ROOT_FOLDER . "/resources/weed.png"?>" width="30" height="30" class="d-inline-block align-top" alt="">
           </span>
@@ -28,7 +28,7 @@
               <a class="nav-link" href="<?php echo $ROOT_FOLDER . "/pages/food.php"?>">Food</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Story</a>
+              <a class="nav-link" href="<?php echo $ROOT_FOLDER . "/pages/story.php"?>">Story</a>
             </li>       
           </ul>
         </div>

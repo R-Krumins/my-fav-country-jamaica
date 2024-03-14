@@ -3,8 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Jamican country info">
+    <meta name="keywords" content="jamica, jaimacan tourism, jamaican info, jamaican country">
+    <meta class="author" content="Rainers Krumins">
     <link rel="stylesheet" href="./node_modules/bootstrap/dist/css/bootstrap.min.css">
     <link rel="stylesheet" href="./node_modules/bootstrap-icons/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="./css/index.css">
     <base href="/my-fav-country-jamaica/">
     <title>Cool Website</title>
 </head>
@@ -34,22 +38,22 @@
                         <div class="carousel-item active">
                         <img src="./resources/man-smoking-joint.png" class="d-block w-100" alt="...">
                         <div class="carousel-caption d-none d-md-block">
-                            <h5>First slide label</h5>
-                            <p>Some representative placeholder content for the first slide.</p>
+                            <h5>Good Vibes in Jamaica</h5>
+                            <p>Best Vibes! Good Vibes!</p>
                         </div>
                         </div>
                         <div class="carousel-item">
                         <img src="./resources/beach-droneshot.png" class="d-block w-100" alt="...">
                         <div class="carousel-caption d-none d-md-block">
-                            <h5>Second slide label</h5>
-                            <p>Some representative placeholder content for the second slide.</p>
+                            <h5>Beutifull County</h5>
+                            <p>Jamaica the most beutifull country in the world!</p>
                         </div>
                         </div>
                         <div class="carousel-item">
                         <img src="./resources/sexy-ladies.jpg" class="d-block w-100" alt="...">
                         <div class="carousel-caption d-none d-md-block">
-                            <h5>Third slide label</h5>
-                            <p>Some representative placeholder content for the third slide.</p>
+                            <h5>Sexiest Ladies</h5>
+                            <p>Jamica women best women!</p>
                         </div>
                         </div>
                     </div>

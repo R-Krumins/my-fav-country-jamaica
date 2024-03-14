@@ -3,34 +3,16 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Jamican country food">
+    <meta name="keywords" content="jamica, jaimacan tourism, jamaican info, jamaican country">
+    <meta class="author" content="Rainers Krumins">
     <link rel="stylesheet" href="../node_modules/bootstrap/dist/css/bootstrap.min.css">
     <link rel="stylesheet" href="../node_modules/bootstrap-icons/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="../css/food.css">
     <base href="/my-fav-country-jamaica/">
     <title>Food</title>
 </head>
 <body>
-
-<style>
-    .fade-to-black {
-      position: relative;
-      display: inline-block;
-    }
-
-    .fade-to-black img {
-      display: block;
-      width: 100%;
-      height: auto;
-    }
-
-    .fade-overlay {
-      position: absolute;
-      bottom: 0;
-      left: 0;
-      width: 100%;
-      height: 400px; /* Adjust the height of the fade */
-      background: linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, 1));
-    }
-  </style>
     <?php require "../components/navbar.php"?>
 
     <div class="card text-bg-dark">
